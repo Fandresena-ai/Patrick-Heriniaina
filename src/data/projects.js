@@ -49,42 +49,42 @@ const projects = [
         cover: "/image/brand-cover.webp",
         tools: ["Capcut"],
         media: [
-          { type: "video", src: "https://res.cloudinary.com/dtcftxbpf/video/upload/f_auto,q_auto/v1778874678/VID-20260313-WA0000_svtvlt.mp4" }
+          { type: "video", src: "https://res.cloudinary.com/dtcftxbpf/video/upload/q_auto/v1778874678/VID-20260313-WA0000_svtvlt.mp4" }
         ]
       },
       {
         cover: "/image/brand-cover.webp",
         tools: ["Premier Pro"],
         media: [
-          { type: "video", src: "https://res.cloudinary.com/dtcftxbpf/video/upload/f_auto,q_auto/v1778874652/tablette_ssdwba.mp4" }
+          { type: "video", src: "https://res.cloudinary.com/dtcftxbpf/video/upload/q_auto/v1778874652/tablette_ssdwba.mp4" }
         ]
       },
       {
         cover: "/image/closeup.webp",
         tools: ["Premiere Pro"],
         media: [
-          { type: "video", src: "https://res.cloudinary.com/dtcftxbpf/video/upload/f_auto,q_auto/v1778874616/sortie_recreative_ixeqv6.mp4" }
+          { type: "video", src: "https://res.cloudinary.com/dtcftxbpf/video/upload/q_auto/v1778874616/sortie_recreative_ixeqv6.mp4" }
         ]
       },
       {
         cover: "/image/brand-cover.webp",
         tools: ["Premier Pro"],
         media: [
-          { type: "video", src: "https://res.cloudinary.com/dtcftxbpf/video/upload/f_auto,q_auto/v1778874428/astuce_beauty_xak5vy.mp4" }
+          { type: "video", src: "https://res.cloudinary.com/dtcftxbpf/video/upload/q_auto/v1778874428/astuce_beauty_xak5vy.mp4" }
         ]
       },
       {
         cover: "/image/closeup.webp",
         tools: ["Premier Pro"],
         media: [
-          { type: "video", src: "https://res.cloudinary.com/dtcftxbpf/video/upload/f_auto,q_auto/v1778874465/atelier_de_vacance_v7sbsd.mp4" }
+          { type: "video", src: "https://res.cloudinary.com/dtcftxbpf/video/upload/q_auto/v1778874465/atelier_de_vacance_v7sbsd.mp4" }
         ]
       },
       {
         cover: "/image/brand-cover.webp",
         tools: ["Premier Pro"],
         media: [
-          { type: "video", src: "https://res.cloudinary.com/dtcftxbpf/video/upload/f_auto,q_auto/v1778874572/atelier_aoux7m.mp4" }
+          { type: "video", src: "https://res.cloudinary.com/dtcftxbpf/video/upload/q_auto/v1778874572/atelier_aoux7m.mp4" }
         ]
       },
       {
