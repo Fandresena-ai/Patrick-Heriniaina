@@ -610,9 +610,6 @@ function Home() {
                   <a href="https://www.facebook.com/pa.trick.316013" aria-label="Facebook" target="_blank" rel="noopener noreferrer">
                     <FaFacebook />
                   </a>
-                  <a href="https://www.instagram.com/son_identifiant" aria-label="Instagram" target="_blank" rel="noopener noreferrer">
-                    <FaInstagram />
-                  </a>
                   <a href="https://www.linkedin.com/in/pa-trick-bb58a4371/" aria-label="Linkedin" target="_blank" rel="noopener noreferrer">
                     <FaLinkedin />
                   </a>
