@@ -7,14 +7,12 @@ const projects = [
     sections: [ 
       {
         title: "Extrait photo",
-        tools: ["Photoshop", "Illustrator"],
         media: [
           { type: "image", src: "/image/sary_1.webp" },
           { type: "image", src: "/image/sary_2.webp" }
         ]
       },
       {
-        tools: ["Lightroom"],
         media: [
           { type: "image", src: "/image/sary_3.webp" },
           { type: "image", src: "/image/sary_4.webp" },
@@ -22,7 +20,6 @@ const projects = [
         ]
       },
       {
-        tools: ["Lightroom"],
         media: [
           { type: "image", src: "/image/sary_6.webp" },
           { type: "image", src: "/image/sary_7.webp" },
@@ -30,7 +27,6 @@ const projects = [
         ]
       },
       {
-        tools: ["Lightroom"],
         media: [
           { type: "image", src: "/image/sary_9.webp" },
           { type: "image", src: "/image/sary_10.webp" }          
@@ -131,8 +127,6 @@ const projects = [
     cover: "/image/young_autre.webp",
     sections: [ 
       {
-        title: "Brand Identity",
-        description: "Modern visual identity project",
         cover: "/images/brand-cover.webp",
         tools: ["Photoshop"],
         media: [
@@ -144,8 +138,6 @@ const projects = [
         ]
       },
       {
-        title: "Photo Shoot",
-        description: "Professional photography project",
         cover: "/image/closeup.webp",
         tools: ["Photoshop"],
         media: [
@@ -155,8 +147,6 @@ const projects = [
         ]
       },
       {
-        title: "Photo Shoot",
-        description: "Professional photography project",
         cover: "/image/closeup.webp",
         tools: ["Photoshop"],
         media: [
@@ -168,8 +158,6 @@ const projects = [
         ]
       },
       {
-        title: "Photo Shoot",
-        description: "Professional photography project",
         cover: "/image/closeup.webp",
         tools: ["Photoshop"],
         media: [
