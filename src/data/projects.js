@@ -127,6 +127,7 @@ const projects = [
     cover: "/image/young_autre.webp",
     sections: [ 
       {
+        title: "Extraits affichés",
         cover: "/images/brand-cover.webp",
         tools: ["Photoshop"],
         media: [
